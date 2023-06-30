@@ -1,0 +1,127 @@
+.rolexmainpage-logo{
+    height: 80px;
+    width: 80px;
+}
+.foot-panel2{
+    background-color: #1f1f1f;
+    color: white;
+    height:230px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+ul a{
+    display:block;
+    font-size: 0.85rem;
+    cursor: pointer;
+    color: #bababa;
+}
+.chooseone{
+    transition: 1s ;
+    text-align: center;
+
+
+}
+
+.chooseone:hover{
+    height: 400px;
+    width: 500px;
+    color: blue;
+}
+.thanking-customers-section-modal-title {
+    color: #d0b200;
+    font-weight: 800;
+  }
+.foot-panel2 i{
+    cursor: pointer;
+  word-spacing: 15px;
+}
+ul p{
+    color: #ffffff;
+    font-weight: 400;
+}
+.foot-panel1{
+    background-color: #525252;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    font-size:15px;
+    cursor: pointer;
+}
+.footer{
+    margin-bottom: 15px;
+}
+.foot-panel3{
+    background-color: #1f1f1f;
+    border-top:0.5px solid #909090;
+    color:white;
+   text-align: center;
+   height: 50px;
+}
+#nav1{
+    background-color: aqua;
+    color: brown;
+    font-weight: 500;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-width: 3px;
+}
+.founder-para{
+    color: #ffba30;
+    font-size: 18px;
+    font-family:  sans-serif;
+    width: 350px;
+    margin: 20px;
+    margin: 20px;
+}
+.founder-heading{
+    color: rgb(48, 53, 58);
+    font-family:  sans-serif;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.about-the-founder-section{
+    width: 50%;
+}
+.carousel-rolex{
+    height: 700px;
+}
+.founder-img{
+    height: 432px;
+    margin-left: 10px;
+    width: 48%;
+}
+#nav2{
+    background-color: aqua;
+    color: brown;
+    font-weight: 500;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-width: 3px;
+}
+#nav3{
+    background-color: aqua;
+    color: brown;
+    font-weight: 500;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-width: 3px;
+}
+#nav4{
+    background-color: aqua;
+    color: brown;
+    font-weight: 500;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-width: 3px;
+}
+#nav5{
+    background-color: aqua;
+    color: brown;
+    font-weight: 500;
+    border-style: solid;
+    border-color: antiquewhite;
+    border-width: 3px;
+}
